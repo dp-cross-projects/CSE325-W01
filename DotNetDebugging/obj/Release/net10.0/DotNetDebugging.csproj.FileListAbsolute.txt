@@ -1,0 +1,14 @@
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.exe
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.deps.json
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.runtimeconfig.json
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.dll
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.pdb
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.dll
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\obj\Release\net10.0\refint\DotNetDebugging.dll
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.pdb
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\ldpar\Desktop\BYU-I\CSE325(C)\Week01\DotNetDebugging\obj\Release\net10.0\ref\DotNetDebugging.dll
